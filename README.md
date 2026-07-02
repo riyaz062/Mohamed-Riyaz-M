@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Riyaz M 👋</h1>
+<h1 align="center"> I'm Mohamed Riyaz M 👋</h1>
 <h3 align="center">Cybersecurity Enthusiast | CSE Undergraduate | Linux & Network Security Learner</h3>
 
 <p align="center">
